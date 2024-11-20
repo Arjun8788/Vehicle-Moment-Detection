@@ -1,0 +1,1 @@
+/models/license_plate_detector.pt
